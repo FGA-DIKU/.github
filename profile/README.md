@@ -1,4 +1,4 @@
-## Hi there 👋
+# The GitHub organization of the Fine Grained Analysis collaboratory at the Pioneer Centre for AI 
 
 <!--
 
