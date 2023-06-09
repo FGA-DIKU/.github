@@ -13,9 +13,9 @@ The GitHub organization of the [Fine Grained Analysis Collaboratory](https://www
 
 # Repositories
 
-## Kozlová, Nicole. Master's Thesis, 2023: FLAIR-T1 Image Registration
+### Kozlová, Nicole. Master's Thesis, 2023: FLAIR-T1 Image Registration
 Private repository. Access is available upon request.
 
-## Ferrer, Neus. Master's Thesis, 2022: Cerebral Microbleed detection and segmentation for COVID-19 brain MR images.
+### Ferrer, Neus. Master's Thesis, 2022: Cerebral Microbleed detection and segmentation for COVID-19 brain MR images.
 Private repository. Access is available upon request.
 
