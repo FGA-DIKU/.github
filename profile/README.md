@@ -11,7 +11,14 @@ The GitHub organization of the [Fine Grained Analysis Collaboratory](https://www
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Repositories
+# Active repositories
+### Ghazi, Mostafa: MRI-Augmentation
+https://github.com/Mostafa-Ghazi/MRI-Augmentation
+
+### Llambias, Sebastian: OmniFrame
+Private repository. Access is available upon request.
+
+# Archived repositories
 
 ### Kozlová, Nicole. Master's Thesis, 2023: FLAIR-T1 Image Registration
 Private repository. Access is available upon request.
