@@ -1,5 +1,7 @@
 # FGA-DIKU
-The GitHub organization of the [Fine Grained Analysis Collaboratory](https://www.aicentre.dk/collaboratories/fine-grained-analysis) at the Pioneer Centre for AI.
+A GitHub organization of the [Fine Grained Analysis Collaboratory](https://www.aicentre.dk/collaboratories/fine-grained-analysis) at the Pioneer Centre for AI.
+
+Our website can be found [here](https://fga-diku.github.io/) but is currently under construction.
 
 <!--
 **Here are some ideas to get you started:**
