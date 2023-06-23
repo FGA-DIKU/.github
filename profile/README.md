@@ -25,9 +25,15 @@ Private repository. Access is available upon request.
 
 ## Archived
 
+### Diamant, Magnus & Pedersen, William. Master's Thesis, 2023: Automatic Quality Assessment and Pathology Detection of Magnetic Resonance Imaging
+Private repository. Access is available upon request.
+
 ### Kozlová, Nicole. Master's Thesis, 2023: FLAIR-T1 Image Registration
 Private repository. Access is available upon request.
 
 ### Ferrer, Neus. Master's Thesis, 2022: Cerebral Microbleed detection and segmentation for COVID-19 brain MR images.
+Private repository. Access is available upon request.
+
+### Wu, Ji. Master's Thesis, 2023: Active Learning using a 3D UXNet in Hippocampus segmentation.
 Private repository. Access is available upon request.
 
