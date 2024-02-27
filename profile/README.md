@@ -20,8 +20,8 @@ Our website can be found [here](https://fga-diku.github.io/) but is currently un
 ### Ghazi, Mostafa: MRI-Augmentation
 https://github.com/Mostafa-Ghazi/MRI-Augmentation
 
-### Llambias, Sebastian: OmniFrame
-Private repository. Access is available upon request.
+### Llambias, Sebastian: Yucca
+https://github.com/Sllambias/yucca/
 
 ## Archived
 
