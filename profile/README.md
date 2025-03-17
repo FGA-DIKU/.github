@@ -17,14 +17,29 @@ Our website can be found [here](https://fga-diku.github.io/) but is currently un
 
 ## Active
 
-### Odgaard, M., Klein, K., Montgomery, M., Sobhaninia, Z. & Lorenzen, S.: EHR
-https://github.com/FGA-DIKU/EHR
+### AMAES
+_Munk, A., Ambsdorf, J. & Llambias, S._  
 
-### Ghazi, Mostafa: MRI-Augmentation
-https://github.com/Mostafa-Ghazi/MRI-Augmentation
+CODE: https://github.com/asbjrnmunk/amaes  
+PAPER: https://arxiv.org/abs/2408.00640v2
 
-### Llambias, Sebastian: Yucca
-https://github.com/Sllambias/yucca/
+
+### EHR (CORE-BEHRT)
+_Odgaard, M., Klein, K., Montgomery, M., Sobhaninia, Z. & Lorenzen, S._  
+
+CODE: https://github.com/FGA-DIKU/EHR  
+PAPER: https://arxiv.org/abs/2404.15201
+
+### MRI-Augmentation 
+_Ghazi, M._  
+
+CODE: https://github.com/Mostafa-Ghazi/MRI-Augmentation
+
+### Yucca
+_Llambias, S._  
+
+CODE: https://github.com/Sllambias/yucca  
+PAPER: https://arxiv.org/abs/2407.19888
 
 ## Archived
 
