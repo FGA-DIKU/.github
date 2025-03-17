@@ -17,6 +17,9 @@ Our website can be found [here](https://fga-diku.github.io/) but is currently un
 
 ## Active
 
+### Odgaard, M., Klein, K., Montgomery, M., Sobhaninia, Z. & Lorenzen, S.: EHR
+https://github.com/FGA-DIKU/EHR
+
 ### Ghazi, Mostafa: MRI-Augmentation
 https://github.com/Mostafa-Ghazi/MRI-Augmentation
 
